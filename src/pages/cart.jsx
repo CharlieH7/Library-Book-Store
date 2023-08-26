@@ -83,12 +83,13 @@ const Cart = ({ cart, changeQuantity, removeItem }) => {
                   <span>Total</span>
                   <span>${total()}</span>
                 </div>
+                <Link to="/checkout">
                 <button
-                  className="btn btn__checkout no-cursor"
-                  onClick={() => alert("Feature coming soon :)")}
+                  className="btn btn__checkout"
                 >
                   Proceed to checkout
                 </button>
+                </Link>
               </div>
             )}
           </div>

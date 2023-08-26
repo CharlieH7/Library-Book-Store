@@ -49,18 +49,10 @@ const Bookinfo = ({ books, addToCart, cart }) => {
                 <div className="book__summary">
                   <h3 className="book__summary--title">Summary</h3>
                   <p className="book__summary--para">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Dignissimos a corporis dolor facere voluptas veniam libero
-                    obcaecati aliquam omnis, necessitatibus quod possimus
-                    inventore? Rerum autem doloribus expedita sint doloremque
-                    fugit!
+                    {book.firstParagraph}
                   </p>
                   <p className="book__summary--para">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Dignissimos a corporis dolor facere voluptas veniam libero
-                    obcaecati aliquam omnis, necessitatibus quod possimus
-                    inventore? Rerum autem doloribus expedita sint doloremque
-                    fugit!
+                    {book.secondParagraph}
                   </p>
                 </div>
                 {bookExistsOnCart() ? (
