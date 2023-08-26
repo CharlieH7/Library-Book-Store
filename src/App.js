@@ -20,6 +20,7 @@ import { books } from "./data";
 import Bookinfo from "./pages/bookinfo";
 import Cart from "./pages/cart";
 import React, { useEffect, useState } from "react";
+import Checkout from "./pages/checkout";
 library.add(
   faBars,
   faShoppingCart,
@@ -81,6 +82,7 @@ function App() {
             element={<Bookinfo books={books} addToCart={addToCart} cart={cart}/>}
           />
           <Route path="/cart" element={<Cart books={books} cart={cart} changeQuantity={changeQuantity} removeItem={removeItem}/>}/>
+          <Route path="/checkout" element={<Checkout/>}/>
         </Routes>
         <Footer />
       </div>

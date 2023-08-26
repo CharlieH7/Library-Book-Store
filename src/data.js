@@ -7,6 +7,8 @@ export const books = [
     originalPrice: 49.95,
     salePrice: 14.95,
     rating: 4.5,
+    firstParagraph: "Now in the 6th edition, Cracking the Coding Interview gives you the interview preparation you need to get the top software developer jobs. This is a deeply technical book and focuses on the software engineering skills to ace your interview. The book is over 700 pages and includes 189 programming interview questions and answers, as well as other advice.",
+    secondParagraph: "This section forms the bulk of the book. Each section opens with a discussion of the core knowledge and strategies to tackle this type of question, diving into exactly how you break down and solve it. Topics covered include: Arrays and Strings, Linked Lists, Stacks and Queues, Trees and Graphs, Bit Manipulation, Math and Logic Puzzles, Object-Oriented Design, Recursion and Dynamic Programming, Sorting and Searching, Scalability and Memory Limits, Testing, C and C++, Java, Databases, Threads and Locks, Assorted Moderate Problems, Assorted Hard Problems"
   },
   {
     id: 2,
@@ -15,6 +17,8 @@ export const books = [
     originalPrice: 39,
     salePrice: null,
     rating: 5,
+    firstParagraph: "Atomic Habits by James Clear is a comprehensive, practical guide on how to change your habits and get 1% better every day. Using a framework called the Four Laws of Behavior Change, Atomic Habits teaches readers a simple set of rules for creating good habits and breaking bad ones.",
+    secondParagraph: "James Clear is a writer and speaker focused on habits, decision making, and continuous improvement. He is the author of the #1 New York Times bestseller, Atomic Habits. The book has sold over 5 million copies worldwide and has been translated into more than 50 languages. Clear is a regular speaker at Fortune 500 companies and his work has been featured in places like Time magazine, the New York Times, the Wall Street Journal and on CBS This Morning. His popular '3-2-1' email newsletter is sent out each week to more than 1 million subscribers.",
   },
   {
     id: 3,
@@ -23,6 +27,8 @@ export const books = [
     originalPrice: 29,
     salePrice: null,
     rating: 5,
+    firstParagraph: "For David Goggins, childhood was a nightmare -- poverty, prejudice, and physical abuse colored his days and haunted his nights. But through self-discipline, mental toughness, and hard work, Goggins transformed himself from a depressed, overweight young man with no future into a U.S. Armed Forces icon and one of the world's top endurance athletes. The only man in history to complete elite training as a Navy SEAL, Army Ranger, and Air Force Tactical Air Controller, he went on to set records in numerous endurance events, inspiring Outside magazine to name him 'The Fittest (Real) Man in America.'",
+    secondParagraph: "In Can't Hurt Me, he shares his astonishing life story and reveals that most of us tap into only 40% of our capabilities. Goggins calls this The 40% Rule, and his story illuminates a path that anyone can follow to push past pain, demolish fear, and reach their full potential."
   },
   {
     id: 4,
@@ -31,6 +37,8 @@ export const books = [
     originalPrice: 44,
     salePrice: 19,
     rating: 4.5,
+    firstParagraph: "Deep work is the ability to focus without distraction on a cognitively demanding task. It's a skill that allows you to quickly master complicated information and produce better results in less time. Deep Work will make you better at what you do and provide the sense of true fulfillment that comes from craftsmanship. In short, deep work is like a super power in our increasingly competitive twenty-first century economy. And yet, most people have lost the ability to go deep-spending their days instead in a frantic blur of e-mail and social media, not even realizing there's a better way.",
+    secondParagraph: "A mix of cultural criticism and actionable advice, Deep Work takes the reader on a journey through memorable stories-from Carl Jung building a stone tower in the woods to focus his mind, to a social media pioneer buying a round-trip business class ticket to Tokyo to write a book free from distraction in the air-and no-nonsense advice, such as the claim that most serious professionals should quit social media and that you should practice being bored. Deep Work is an indispensable guide to anyone seeking focused success in a distracted world."
   },
   {
     id: 5,
@@ -39,6 +47,8 @@ export const books = [
     originalPrice: 32,
     salePrice: null,
     rating: 5,
+    firstParagraph: "The 10X Rule says that 1) you should set targets for yourself that are 10X greater than what you believe you can achieve and 2) you should take actions that are 10X greater than what you believe are necessary to achieve your goals. The biggest mistake most people make in life is not setting goals high enough. Taking massive action is the only way to fulfill your true potential.",
+    secondParagraph: "The 10 X Rule unveils the principle of 'Massive Action,' allowing you to blast through business clichŽs and risk-aversion while taking concrete steps to reach your dreams. It also demonstrates why people get stuck in the first three actions and how to move into making the 10X Rule a discipline. Find out exactly where to start, what to do, and how to follow up each action you take with more action to achieve Massive Action results."
   },
   {
     id: 6,
@@ -47,6 +57,8 @@ export const books = [
     originalPrice: 70,
     salePrice: 12.5,
     rating: 5,
+    firstParagraph: "In Sell or Be Sold readers will learn why selling is as vital to your survival as food, water, and oxygen. This book details very simple concepts that readers can use confidently and successfully to sell others on themselves, their ideas and their products. Readers will find step-by-step selling strategies and techniques to guarantee they not only survive, but prosper in ANY economic condition.",
+    secondParagraph: "Combining the theory of a motivational book with the practical steps found in a how-to manual, the book lays out the steps needed to master the art of selling. This includes recognizing that selling is a way of life; that a successful sale is almost never about price; and that the customer is always right."
   },
   {
     id: 7,
@@ -55,6 +67,8 @@ export const books = [
     originalPrice: 11,
     salePrice: 10,
     rating: 4,
+    firstParagraph: "2017 marks 20 years since Robert Kiyosaki's Rich Dad Poor Dad first made waves in the Personal Finance arena. It has since become the #1 Personal Finance book of all time... translated into dozens of languages and sold around the world. Rich Dad Poor Dad is Robert's story of growing up with two dads ― his real father and the father of his best friend, his rich dad ― and the ways in which both men shaped his thoughts about money and investing. The book explodes the myth that you need to earn a high income to be rich and explains the difference between working for money and having your money work for you.",
+    secondParagraph: "In the 20th Anniversary Edition of this classic, Robert offers an update on what we've seen over the past 20 years related to money, investing, and the global economy. Sidebars throughout the book will take readers 'fast forward' ― from 1997 to today ― as Robert assesses how the principles taught by his rich dad have stood the test of time. In many ways, the messages of Rich Dad Poor Dad, messages that were criticized and challenged two decades ago, are more meaningful, relevant and important today than they were 20 years ago.",
   },
   {
     id: 8,
@@ -63,6 +77,8 @@ export const books = [
     originalPrice: 38,
     salePrice: 17.95,
     rating: 4.5,
+    firstParagraph: "Rich Dad`s CASHFLOW Quadrant is a guide to financial freedom. It’s the second book in the Rich Dad Series and reveals how some people work less, earn more, pay less in taxes, and learn to become financially free.",
+    secondParagraph: "CASHFLOW Quadrant was written for those who are ready to move beyond job security and enter the world of financial freedom. It’s for those who want to make significant changes in their lives and take control of their financial future."
   },
   {
     id: 9,
@@ -71,6 +87,8 @@ export const books = [
     originalPrice: 35,
     salePrice: 19.95,
     rating: 4.5,
+    firstParagraph: "Feeling powerless is a miserable experience. If given the choice, everyone would opt for more rather than less power. Yet, to be so overt in attempts to gain power is frowned upon. To attain power, you need to be subtle, cunning, and democratic yet devious. Consequently, in his controversial book, 'The 48 Laws of Power,' best-selling author Robert Greene argues that if you manage to seduce, charm, and deceive your opponents, you will attain the ultimate power. ",
+    secondParagraph: "Greene states that the better you become at handing power, the better friend, lover, and person you will become. This is because you learn how to make others feel good about themselves,  which makes them dependent on you as a source of great pleasure to be around."
   },
   {
     id: 10,
@@ -79,6 +97,8 @@ export const books = [
     originalPrice: 40,
     salePrice: null,
     rating: 5,
+    firstParagraph: "Throughout your life, you've had parents, coaches, teachers, friends, and mentors who have pushed you to be better than your excuses and bigger than your fears. What if the secret to having the confidence and courage to enrich your life and work is simply knowing how to push yourself?",
+    secondParagraph: "Using the science habits, riveting stories and surprising facts from some of the most famous moments in history, art and business, Mel Robbins will explain the power of a 'push moment.' Then, she'll give you one simple tool you can use to become your greatest self.",
   },
   {
     id: 11,
@@ -87,6 +107,8 @@ export const books = [
     originalPrice: 30,
     salePrice: 20,
     rating: 5,
+    firstParagraph: "About the Author Dale Carnegie (November 24, 1888 -- November 1, 1955) was a celebrated American author and self-improvement guru. Born in poverty on a farm in Missouri, he built himself a successful career as a traveling salesman before moving on to teach public speaking at a New York YMCA in 1912. ",
+    secondParagraph: "His course was a hit, and within two years he had moved out of the YMCA and founded the Dale Carnegie Institute to accommodate the huge demand for his classes. His 1936 book HOW TO WIN FRIENDS AND INFLUENCE PEOPLE was a global bestseller, selling almost 5 million copies during his lifetime and becoming a staple of business curriculums around the world.",
   },
   {
     id: 12,
@@ -95,5 +117,7 @@ export const books = [
     originalPrice: 30,
     salePrice: 12.95,
     rating: 4.5,
+    firstParagraph: "From the bestselling author of The 48 Laws of Power and The Laws of Human Nature, a vital work revealing that the secret to mastery is already within you. Each one of us has within us the potential to be a Master. Learn the secrets of the field you have chosen, submit to a rigorous apprenticeship, absorb the hidden knowledge possessed by those with years of experience, surge past competitors to surpass them in brilliance, and explode established patterns from within. Study the behaviors of Albert Einstein, Charles Darwin, Leonardo da Vinci and the nine contemporary Masters interviewed for this book.",
+    secondParagraph: "The bestseller author of The 48 Laws of Power, The Art of Seduction, and The 33 Strategies of War, Robert Greene has spent a lifetime studying the laws of power. Now, he shares the secret path to greatness. With this seminal text as a guide, readers will learn how to unlock the passion within and become masters.",
   },
 ];
